@@ -1,0 +1,15 @@
+div{
+    display: inline-block;
+    vertical-align: auto;
+    width: 300px;
+    vertical-align: top;
+}
+/* .div{
+    display: inline-block;
+    vertical-align: top;
+} */
+#p1{
+    display: block;
+    text-align: center;
+    width: 100%;
+}
